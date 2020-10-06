@@ -1,7 +1,7 @@
 # FlaskSAG
 FlaskSAG or Flask Site Auto Generator is just a quick little project I threw together to make a running Flask site with an HTML template quick and easy.
 
-## Installation\
+## Installation
 Your best bet is going to be using [pip](https://pypi.org/project/pip/) to get all the dependencies for this project up and running.
 ```bash
 pip install flask_auto_generate_project
