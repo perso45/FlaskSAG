@@ -1,0 +1,12 @@
+from setuptools import setup
+
+setup(name='flask_auto_generate_project',
+      version='1.0',
+      description='This tool will aid in auto generating a self-hosted Flask site. (Note: You will need to port forward to have the website accesible to the world)',
+      author='ThatRandomPerson45',
+      packages=['flask_auto_generate_project'],
+      install_requires=[
+          'flask',
+          'connexion'
+      ],
+      zip_safe=False)
